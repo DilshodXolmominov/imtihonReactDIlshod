@@ -1,0 +1,262 @@
+.App{
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+}
+/* .row{
+  min-width: 992px
+}
+ul {
+  min-width: 600px;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+li{
+  display: inline-block;
+}
+ li h1{
+  display: inline-block;
+  margin-left: 60px;
+}
+li h1 span{
+  color: blueviolet;
+}
+
+li a,p{
+  display: block;
+  text-align: center;
+  text-decoration: none;
+}
+li a:hover:not(.active) {
+  background-color: rgb(88, 157, 199);
+}
+
+ul li p{
+  display: inline-block;
+  margin-left: 850px ;
+  
+}
+ul li a{
+  display: inline-block;
+  margin-left: 2px;
+  padding: 5px;
+}
+.img img{
+  width: 55%;
+  height: 50%;
+  float: left;
+}
+
+.right-text span{
+  font-weight: 800;
+  text-align: center;
+  color: rgb(28, 28, 28);
+  font-size: 35px;
+}
+.right-text p{
+  margin-top: 0;
+  text-align: center;
+  display:inline-block;
+  color: rgb(122, 121, 121);
+  font-size: 20px;
+}
+.input1{
+  margin-top: 50px;
+  width: 40%;
+  padding: 22px 20px;
+  font-size: 18px;
+  border: 2px solid rgb(203, 0, 254);
+}
+.input2{
+  margin-top: 40px;
+  width: 40%;
+  padding: 22px 20px;
+  font-size: 18px;
+  border: 2px solid rgb(203, 0, 254);
+}
+.submit{
+  margin-top: 40px;
+  padding: 23px 70px;
+  font-weight: 700;
+  background-color: blueviolet;
+  color: white;
+  font-size: 17px;
+  border: none;
+  border-radius: 30px;
+}
+.forget{
+  margin-left: 90px;
+  text-decoration: none;
+  color: rgb(124, 124, 124);
+} */
+/* Component Vazifa2 */
+/* .numers{
+  background-color: rgb(242, 255, 0);
+  height: 250px;
+}
+.inputSum{
+  padding-top: 30px;
+  padding: 7px 20px;
+  display: flex;
+  left: 0;
+  right: 0;
+  margin: auto;
+  background-color: aqua;
+  font-size: 20px;
+}
+.inputSum2 {
+  padding: 7px 20px;
+  display: flex;
+  left: 0;
+  right: 0;
+  margin: auto;
+  margin-top: 20px;
+  background-color: aqua;
+  font-size: 20px;
+}
+.SumBtn{
+    padding: 7px 20px;
+    border-radius: 20px;
+    color: beige;
+    padding:8px 50px;
+    border: none;
+    display: flex;
+    left: 0;
+    right: 0;
+    margin: auto;
+    margin-top: 20px;
+    background-color: rgb(0, 42, 255);
+    font-size: 20px;
+}
+.inputSum{
+  padding: 7px 20px;
+  display: flex;
+  left: 0;
+  right: 0;
+  margin: auto;
+  margin-top: 20px;
+  background-color: aqua;
+  font-size: 20px;
+}
+.inputSum3 {
+  padding: 7px 20px;
+  display: flex;
+  left: 0;
+  right: 0;
+  margin: auto;
+  margin-top: 20px;
+  background-color: aqua;
+  font-size: 20px;
+}
+
+.Icon{
+    padding: 7px 20px;
+    display: flex;
+    left: 0;
+    right: 0;
+    margin: auto;
+    margin-top: 20px;
+    background-color: rgb(120, 122, 168);
+    font-size: 20px;
+    color: white;
+  }
+  h1{
+    margin: 0;
+    padding-top: 40px;
+    text-align: center;
+  }
+  .inputICon{
+    background-color: rgb(117, 227, 227);
+    color: coral;
+    height: 250px;
+  }
+  .Password{
+    background-color: rgb(224, 118, 139);
+    height: 300px;
+    padding-top: 10px;
+  }
+  .password1{ 
+  padding: 7px 20px;
+  display: flex;
+  left: 0;
+  right: 0;
+  margin: auto;
+  background-color: rgb(205, 227, 39);
+  font-size: 20px;
+}
+.password2{ 
+  padding: 7px 20px;
+  display: flex;
+  left: 0;
+  right: 0;
+  margin: auto;
+  margin-top: 20px;
+  background-color: rgb(205, 227, 39);
+  font-size: 20px;
+}
+h3{
+  text-align: center;
+  color: blue;
+}
+.imgCarusel{
+  width: 500px;
+  height: 600px;
+  display: flex;
+  left: 0;
+  right: 0;
+  margin: auto;
+  font-size: 20px;
+  margin-top: 30px;
+  box-shadow: 0 0 30px black;
+}
+button{
+   font-size: 30px;
+   padding: 5px 9px;
+   background-color: aqua;
+} */
+
+
+/* Vazifa3 */
+
+.InputClass{
+  width: 900px;
+  height: 600px;
+  display: flex;
+  left: 0;
+  right: 0;
+  margin: auto;
+  margin-top: 30px;
+  background-color: rgb(213, 216, 221);
+  color:white;
+  box-shadow: 0 5px 8px  rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.InputClass2{
+  margin-top:5px;
+  padding:0px 10px;
+}
+.InputClass2 input{
+  display: inline-block;
+  width: 170px;
+}
+.InputClass2 button{
+  margin-left: 8px;
+}
+table tbody {
+  background-color: cadetblue;
+  color: beige;
+}
+table tbody tr td{
+  width: 70px;
+  text-align: center;
+}
+table tbody:hover{
+  background-color: blue;
+}
+table tbody tr td button{
+  float: right;
+  padding: 20px 5px;
+  margin: 2px 0;
+}
+
